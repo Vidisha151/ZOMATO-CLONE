@@ -7,8 +7,8 @@ This project helped me practice web design basics, responsive layouts, and styli
 
 ## 🌐 Live Preview
 
-Run the project locally and open in browser:  
-`http://127.0.0.1:3000/PROJECT1/index.html`
+[Click here to view my Zomato Clone!]()
+
 
 ---
 
