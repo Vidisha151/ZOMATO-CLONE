@@ -7,7 +7,7 @@ This project helped me practice web design basics, responsive layouts, and styli
 
 ## 🌐 Live Preview
 
-[Click here to view my Zomato Clone!]()
+[Click here to view my Zomato Clone!](https://vidisha151.github.io/ZOMATO-CLONE/)
 
 
 ---
